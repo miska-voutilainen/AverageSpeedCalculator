@@ -1,0 +1,55 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor/IDE
+.github/
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+logs/
+
+# Environment / secrets
+.env
+.env.*
+*.local
+
+# Dependencies
+node_modules/
+
+# Build / cache
+dist/
+build/
+out/
+coverage/
+.cache/
+tmp/
+temp/
+
+# Runtime files
+*.pid
+*.seed
+
+# Python (if used)
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Java (if used)
+*.class
+target/
+
+# .NET (if used)
+bin/
+obj/
+
+# Lock files (optional; remove if you want to commit them)
+# package-lock.json
+# yarn.lock
+# pnpm-lock.yaml
